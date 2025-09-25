@@ -1,4 +1,4 @@
-# Sistema de Análisis de Ventas con Proceso ETL
+# Sistema de Análisis de Ventas con Proceso ETL - Manuel Mella
 
 ## Descripción del Proyecto
 Sistema ETL (Extract, Transform, Load) desarrollado en .NET 8.0 para consolidar datos de ventas desde múltiples fuentes CSV hacia una base de datos SQL Server.
